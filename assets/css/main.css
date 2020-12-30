@@ -6990,7 +6990,11 @@ input, select, textarea {
 			.gallery.style2.big article .caption {
 				padding: 3rem;
 			}
-
+            
+            h1 {
+                font-size: 2.1em;
+            }
+            
 		}
 
 		@media screen and (max-width: 736px) {
